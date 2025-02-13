@@ -62,3 +62,9 @@ function mergeOrders(orderA, orderB) {
 console.log(mergeOrders(orders1, orders2));
 
 
+// Extra:
+
+let employee ={name: "Alice", position: "Developer", salary: 70000}
+
+console.log(`${employee.name} is a ${employee.position} and makes $${employee.salary}.`)
+
